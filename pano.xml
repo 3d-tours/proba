@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1">
+  <panorama id="node1">
+    <input width="750" height="750" leveltilesize="510" leveltileurl="tiles/1_ Холл 1 этажа, вид 1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" overlap="1" levelbiashidpi="0.400" levelingroll="0">
+      <level predecode="0" width="750" height="750" preload="0"/>
+      <level predecode="1" width="375" height="375" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" fov="70"/>
+      <min tilt="-64.4772" pan="-180" fov="5"/>
+      <max tilt="64.4772" pan="180" fov="120"/>
+    </view>
+    <userdata author="" datetime="2026:09:26 23:33:27" copyright="" longitude="" info="" title="" source="" comment="" latitude="" description="" tags="коридор, гардероб, аптека"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" textalpha="1" borderradius="1" border="1" wordwrap="1" width="180" borderalpha="1" height="20" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" enabled="1" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.2509803921568627"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" zoomout="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" softedge="0" zoomoutpause="1" enabled="0"/>
+    <control invertwheel="0" hideabout="0" lockedkeyboard="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" sensitivity="8" invertcontrol="1" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input width="443" height="443" leveltilesize="510" leveltileurl="tiles/17_ Аптека, вид 1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" levelbias="0.400" overlap="1" levelbiashidpi="0.400" levelingroll="0">
+      <level predecode="1" width="443" height="443" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start tilt="0" pan="0" fov="70"/>
+      <min tilt="-74.084" pan="-180" fov="5"/>
+      <max tilt="74.084" pan="180" fov="120"/>
+    </view>
+    <userdata author="" datetime="2026:09:27 17:27:33" copyright="" longitude="" info="" title="" source="" comment="" latitude="" description="" tags="коридор, гардероб, аптека"/>
+    <hotspots wordwrap="1" width="180" height="20">
+      <label textcolor="0x000000" textalpha="1" borderradius="1" border="1" wordwrap="1" width="180" borderalpha="1" height="20" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" enabled="1" backgroundalpha="1"/>
+      <polystyle borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.2509803921568627"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomfov="20" zoomin="0" zoomout="0" blendtime="1" zoomspeed="2" blendcolor="0x000000" softedge="0" zoomoutpause="1" enabled="0"/>
+    <control invertwheel="0" hideabout="0" lockedkeyboard="0" contextfullscreen="0" simulatemass="1" speedwheel="1" dblclickfullscreen="0" sensitivity="8" invertcontrol="1" lockedmouse="0" lockedkeyboardzoom="0" lockedwheel="0"/>
+  </panorama>
+</tour>
